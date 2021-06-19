@@ -1,0 +1,22 @@
+.btn {
+    border-color: #000000;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+/* Button Widths */
+.btnW1 {
+    width: 60px;
+}
+.btnW2 {
+    width: 80px;
+}
+.btnW3 {
+    width: 100px;
+}
+.btnW4 {
+    width: 120px;
+}
+.btnW5 {
+    width: 140px;
+}

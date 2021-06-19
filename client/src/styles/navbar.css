@@ -1,0 +1,11 @@
+.navbar {
+    width: calc(100vw - 70px);
+    text-align: end;
+    padding: 10px 30px 10px 30px;
+    border-style: solid;
+}
+
+.redirectBtn {
+    padding: 5px 10px;
+    font-size: 13px;
+}

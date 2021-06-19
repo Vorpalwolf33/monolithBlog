@@ -1,0 +1,49 @@
+/* Border Corner round */
+.borderR1 {
+    border-radius: 3px;
+}
+.borderR2 {
+    border-radius: 6px;
+}
+.borderR3 {
+    border-radius: 9px;
+}
+.borderR4 {
+    border-radius: 12px;
+}
+.borderR5 {
+    border-radius: 15px;    
+} 
+
+/* Border Width */
+.borderSW1 {
+    border-width: 2px;
+}
+.borderSW2 {
+    border-width: 3px;
+}
+.borderSW3 {
+    border-width: 4px;
+}
+.borderSW4 {
+    border-width: 5px;
+}
+.borderSW5 {
+    border-width: 6px;
+}
+
+.borderBW1 {
+    border-width: 8px;
+}
+.borderBW2 {
+    border-width: 10px;
+}
+.borderBW3 {
+    border-width: 12px;
+}
+.borderBW4 {
+    border-width: 14px;
+}
+.borderBW5 {
+    border-width: 16px;
+}
